@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class RemoveRSB {
     static int removeRSB(int num){
         return num & (num-1);
+        
         // if(num >0){
         //    num =  num & (num-1);
         //    return true;

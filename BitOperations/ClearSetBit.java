@@ -12,5 +12,6 @@ public class ClearSetBit {
         int pos = sc.nextInt();
 
         System.out.println(clearSetBit(num, pos));
+        sc.close();
 
     }}
