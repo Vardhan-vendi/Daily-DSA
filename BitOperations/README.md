@@ -44,22 +44,22 @@ A structured collection of Bit Manipulation problems in Java, organized from Beg
 
 **Focus:** Binary conversion, AND, OR, XOR, NOT, Left Shift, Right Shift.
 
-- [ ] 1. Check whether a number is Even or Odd
+- [ 1 ] 1. Check whether a number is Even or Odd 
   - Concept: Bitwise AND (`&`)
 
-- [ ] 2. Check whether a number is a Power of 2
+- [ 1 ] 2. Check whether a number is a Power of 2
   - Concept: `n & (n - 1)`
 
-- [ ] 3. Count the Number of Set Bits (1s)
+- [ 1 ] 3. Count the Number of Set Bits (1s)
   - Concept: Brian Kernighan's Algorithm
 
-- [ ] 4. Find the Rightmost Set Bit (RSB)
+- [ 1 ] 4. Find the Rightmost Set Bit (RSB)
   - Concept: `n & -n`
 
-- [ ] 5. Remove the Rightmost Set Bit
+- [ 1 ] 5. Remove the Rightmost Set Bit
   - Concept: `n & (n - 1)`
 
-- [ ] 6. Set the Kth Bit
+- [ 1 ] 6. Set the Kth Bit
   - Concept: `n | (1 << k)`
 
 - [ ] 7. Clear the Kth Bit
