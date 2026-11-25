@@ -62,16 +62,16 @@ A structured collection of Bit Manipulation problems in Java, organized from Beg
 - [ 1 ] 6. Set the Kth Bit
   - Concept: `n | (1 << k)`
 
-- [ ] 7. Clear the Kth Bit
+- [ 1 ] 7. Clear the Kth Bit
   - Concept: `n & ~(1 << k)`
 
-- [ ] 8. Toggle the Kth Bit
+- [ 1 ] 8. Toggle the Kth Bit
   - Concept: `n ^ (1 << k)`
 
-- [ ] 9. Check Whether the Kth Bit is Set
+- [ 1 ] 9. Check Whether the Kth Bit is Set
   - Concept: `n & (1 << k)`
 
-- [ ] 10. Find the Position of the Rightmost Set Bit
+- [ 1 ] 10. Find the Position of the Rightmost Set Bit
   - Concept: Bit manipulation and bit positions
 
 ---
@@ -80,13 +80,13 @@ A structured collection of Bit Manipulation problems in Java, organized from Beg
 
 **Focus:** XOR properties, binary arithmetic, and number manipulation.
 
-- [ ] 11. Find the Unique Element in an Array
+- [ 1 ] 11. Find the Unique Element in an Array
   - Concept: XOR
 
-- [ ] 12. Find the Missing Number from 0 to N
+- [ 2 ] 12. Find the Missing Number from 0 to N
   - Concept: XOR
 
-- [ ] 13. Find Two Non-Repeating Elements
+- [ 3 ] 13. Find Two Non-Repeating Elements
   - Concept: XOR partitioning
 
 - [ ] 14. Swap Two Numbers Using XOR
