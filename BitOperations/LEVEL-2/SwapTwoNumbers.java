@@ -16,5 +16,6 @@ public class SwapTwoNumbers {
         for (int num : res){
             System.out.print(num + " ");
         }
+        sc.close();
     }
 }

@@ -40,5 +40,6 @@ public class TwoNonRepeatingNumbers {
         for (int num : res){
             System.out.println(num);
         }
+        sc.close();
     }
 }

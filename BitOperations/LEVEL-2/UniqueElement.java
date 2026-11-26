@@ -23,6 +23,6 @@ public  class UniqueElement{
        System.out.println(uniqueElement(nums));
 
 
-
+       sc.close();
     }
 }

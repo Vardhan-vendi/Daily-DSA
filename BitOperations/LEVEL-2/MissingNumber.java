@@ -22,6 +22,6 @@ public class MissingNumber {
             nums[i]= sc.nextInt();
         }
         System.out.println(missingNumber(nums, n));
-        
+         sc.close();
     }
 }
