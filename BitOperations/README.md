@@ -89,10 +89,10 @@ A structured collection of Bit Manipulation problems in Java, organized from Beg
 - [ 3 ] 13. Find Two Non-Repeating Elements
   - Concept: XOR partitioning
 
-- [ ] 14. Swap Two Numbers Using XOR
+- [ 4 ] 14. Swap Two Numbers Using XOR
   - Concept: XOR properties
 
-- [ ] 15. Check Whether Two Numbers Have Opposite Signs
+- [ 5 ] 15. Check Whether Two Numbers Have Opposite Signs
   - Concept: XOR / Sign bit
 
 - [ ] 16. Find the Complement of a Number
